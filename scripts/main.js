@@ -1,2 +1,5 @@
-const myHeading = document.querySelector('h1');
-myHeading.textContent = "Sophia Rubi!";
+let myImage = document.querySelector('img'); 
+
+myImage.onclick = function(){
+    let
+}

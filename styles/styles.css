@@ -36,6 +36,6 @@ img{
     width: 600px;
 }
 
-ol{
+ol, ul{
     border: 2px solid black
 }

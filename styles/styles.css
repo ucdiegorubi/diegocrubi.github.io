@@ -39,3 +39,7 @@ img{
 ol, ul{
     border: 2px solid black
 }
+
+.projects_header{
+    color:blue;
+}
